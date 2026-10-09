@@ -13,4 +13,5 @@ October 7 update:
 
 
 October 9 update:
-- Kobotoolbox 
+- Kobotoolbox finalization, I am finishing my sheet/ at least refining it to the point where it can be used to start collecting data. Now that I have enlisted Jack, I went back to the form with the specific idea of Jack collecting data on stickers and graffiti. I can always create a new data collection form or expand on this one if I choose to look/collect other data.
+- Focusing on the questions "who, what, where, when, why, how" to guide how im building my form to collect data. Now I will send the form to Jack to have him test it out and try recording some data. 
